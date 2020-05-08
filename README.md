@@ -1,2 +1,0 @@
-# instagram
-contraseña de Instagram
